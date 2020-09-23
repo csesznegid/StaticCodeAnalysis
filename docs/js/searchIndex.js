@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer",
+            "name": "Manufacturer",
+            "summary": "Class\u0020Manufacturer",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Manufacturer\u0020constructor",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#method___construct"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003AgetIdentifier\u0028\u0029",
+            "name": "getIdentifier",
+            "summary": "Returns\u0020unique\u0020ID",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#method_getIdentifier"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003AgetNames\u0028\u0029",
+            "name": "getNames",
+            "summary": "Returns\u0020the\u0020keys\u0020\u0028names\u0029\u0020of\u0020available\u0020manufacturers",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#method_getNames"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003AgetIndustries\u0028\u0029",
+            "name": "getIndustries",
+            "summary": "Returns\u0020the\u0020values\u0020\u0028industries\u0029\u0020of\u0020available\u0020manufacturers",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#method_getIndustries"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003AgetAvailableManufacturers\u0028\u0029",
+            "name": "getAvailableManufacturers",
+            "summary": "Returns\u0020the\u0020available\u0020manufacturers",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#method_getAvailableManufacturers"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003A\u0024identifier",
+            "name": "identifier",
+            "summary": "Unique\u0020ID",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#property_identifier"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis\\Manufacturer\u003A\u003A\u0024availableManufacturers",
+            "name": "availableManufacturers",
+            "summary": "Available\u0020Manufacturers\u0027\u0020list",
+            "url": "../classes/StaticCodeAnalysis-Manufacturer.html#property_availableManufacturers"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "../namespaces/default.html"
+        },                {
+            "fqsen": "\\StaticCodeAnalysis",
+            "name": "StaticCodeAnalysis",
+            "summary": "",
+            "url": "../namespaces/staticcodeanalysis.html"
+        }            ]
+);
